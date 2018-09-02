@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Dubbo_(服务分组)"
+  id="myeclipse.1439522522561"
+  context-root="/Dubbo_HelloWorld"
+  j2ee-spec="5.0"
+  archive="Dubbo_(服务分组).war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
